@@ -8,4 +8,4 @@ Repository for analysis on Washington DC crime data analysis.
 # WHY-
  To shine a light on criminal activity and provide insight into the safety of the county's capital city
 # HOW-
-Using crome data compiled over the past 10 years until October 2019
+Using crime data compiled over the past 10 years until October 2019
