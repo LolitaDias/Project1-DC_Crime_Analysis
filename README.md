@@ -3,9 +3,9 @@ Repository for analysis on Washington DC crime data analysis.
 
 # Our Objectives
 
-WHAT-
+# WHAT-
  Finding patterns and trends to understand the safety level and types of crimes that occur in different areas in Washington D.C
-WHY-
+# WHY-
  To shine a light on criminal activity and provide insight into the safety of the county's capital city
-HOW-
+# HOW-
 Using crome data compiled over the past 10 years until October 2019
