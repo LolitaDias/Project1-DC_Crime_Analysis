@@ -34,6 +34,7 @@ Created scripts to analyse the crime data and answer the following questions:
 7. Total Number of Crimes by District
 8. Total Number of Crimes by Shift
 9. Analyze the crime trends for all the offenses from 2009-2019
+10. Identify the dangerous blocks of Washington D.C
 
 ## Approach
 
@@ -110,6 +111,18 @@ For our analysis, we will be deleting the data in the lower quartiles
 ![trend_homicide](Images/trend_homicide.png)
 
 ![trend_arson](Images/trend_arson.png)
+
+10. Dangerous blocks of Washington D.C
+
+![dangerous_streets](Images/dangerous_streets.png)
+
+11. Average number of Crimes per Day
+
+![crimesperday](Images/avg_crime_day.png)
+
+12. Crime Map for Washington D.C
+
+![crimemap](Images/density.png)
 
 
 
