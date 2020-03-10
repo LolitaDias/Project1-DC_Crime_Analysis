@@ -15,6 +15,8 @@ The raw data set was downloaded from Kaggle
 
 About the dataset:
 
+Dataset of all of the crimes in the DC metro police system ranging from Theft, Arson, Assault, Homicide, Sex Abuse, Robbery, and Burglary.Data can be easily geocoded and mapped, trends can be extracted, and predictions can be made.
+
 
 
 
