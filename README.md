@@ -10,8 +10,7 @@
 Lolita Dias, Irais Garcia, Marc Omar Haddid, Nithin Sunil
 
 ## Dataset:
-The data set has data from 2009-2019
-The data set was downloaded from Kaggle
+The data set has data from 2009-2019. This data set was downloaded from Kaggle
 
 ## About the dataset:
 
