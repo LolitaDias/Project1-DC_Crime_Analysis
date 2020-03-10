@@ -92,6 +92,9 @@ For our analysis, we will be deleting the data in the lower quartiles
 ![crimes_district](Images/crimes_district.png)
 
 8. Total Number of Crimes by Shift
+
+![crimes_shift](Images/crimes_shift.png)
+
 9. Total Number of Crimes by Time of the day
 10. Most frequent type of crime that is committed during the Day
 11. Most frequent type of crime that is committed during the Night
