@@ -49,6 +49,8 @@ Step 5: Identify and delete Duplicate records
 Step 6: Identify Outliers
 Step 7: Analyzing the Crime rates
 
+## Result:
+
 
 
 
