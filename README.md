@@ -109,7 +109,7 @@ For our analysis, we will be deleting the data in the lower quartiles
 
 ![trend_homicide](Images/trend_homicide.png)
 
-![trend_arson](Images/)
+![trend_arson](Images/trend_arson.png)
 
 
 
