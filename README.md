@@ -65,6 +65,8 @@ There are incidents with a start_date in the years 1800 1912 1914 1915 1916.
 Are these start dates in error or were these unsolved crimes recently solved through new technology advancements?
 Is it truly a 100-year-old cold case, or did the person simply enter the wrong date?
 
+For our analysis, we will be deleting the data in the lower quartiles
+
 
 
 
