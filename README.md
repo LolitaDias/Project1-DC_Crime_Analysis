@@ -31,6 +31,7 @@ Created scripts to analyse the crime data and answer the following questions:
 4. Total Number of Crimes by Month
 5. Total Number of Crimes by Day of the Week
 6. Total Number of Crimes by District
+7. Total Number of Crimes by Shift
 
 
 
