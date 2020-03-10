@@ -47,6 +47,7 @@ Step 3: Merge all the csv files from 2009-2019 into a single file and a single D
 Step 4: Data Profiling and Data Cleansing
 Step 5: Identify and delete Duplicate records
 Step 6: Identify Outliers
+Step 7: Analyzing the Crime rates
 
 
 
