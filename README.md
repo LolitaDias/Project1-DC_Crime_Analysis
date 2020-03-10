@@ -28,6 +28,7 @@ Created scripts to analyse the crime data and answer the following questions:
 1. Total number of crimes for each category of offense
 2. Percentage of crimes for each category of offense
 3. Total Number of Crimes by Year
+4. Total Number of Crimes by Month
 
 
 
