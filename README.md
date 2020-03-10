@@ -26,6 +26,7 @@ The data is most easily accessed by downloading 1 ward at a time for the specifi
 Created scripts to analyse the crime data and answer the following questions:
 
 1. Total number of crimes for each category of offense
+2. Percentage of crimes for each category of offense
 
 
 
