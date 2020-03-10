@@ -43,6 +43,7 @@ Created scripts to analyse the crime data and answer the following questions:
 
 Step 1: Import Dependencies
 Step 2: Read the csv files and convert them into DataFrames
+Step 3: Merge all the csv files from 2009-2019 into a single file and a single DataFrame
 
 
 
