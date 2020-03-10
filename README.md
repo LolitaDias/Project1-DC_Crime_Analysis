@@ -1,5 +1,8 @@
 # Project1_DC_Crime_Analysis
-The purpose of this project is to get familiar with Data Analysis using python pandas, numpy and matplot libraries.
+
+Objectives:
+
+1. To get familiar with Data Analysis using python pandas, numpy and matplot libraries.
 
 Team Members:
 Lolita Dias, Irais Garcia, Marc Omar Haddid, Nithin Sunil
