@@ -13,7 +13,7 @@ Dataset:
 We choose to analyse Washington crime rate between 2009 - 2019.
 The raw data set was downloaded from Kaggle
 
-# Our Objectives
+
 
 
 
