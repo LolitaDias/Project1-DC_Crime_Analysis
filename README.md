@@ -21,7 +21,9 @@ Raw Data can be accessed from: http://crimemap.dc.gov/CrimeMapSearch.aspx#tabs-G
 
 The data is most easily accessed by downloading 1 ward at a time for the specific data range.
 
-## Questions:
+## Tasks:
+
+Created scripts to analyse the crime data and answer the following questions:
 
 1.
 
