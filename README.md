@@ -34,6 +34,8 @@ Created scripts to analyse the crime data and answer the following questions:
 7. Total Number of Crimes by Shift
 8. Total Number of Crimes by Time of the day
 9. Most frequent type of crime that is committed during the Day
+10. Most frequent type of crime that is committed during the Night
+11.
 
 
 
