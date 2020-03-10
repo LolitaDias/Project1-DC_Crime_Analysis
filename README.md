@@ -67,6 +67,28 @@ Is it truly a 100-year-old cold case, or did the person simply enter the wrong d
 
 For our analysis, we will be deleting the data in the lower quartiles
 
+2. Total number of crimes for each category of offense
+
+![](Images/Outliers.png)
+
+3. Percentage of crimes for each category of offense
+
+![](Images/Outliers.png)
+
+4. Total Number of Crimes by Year
+
+![crimes_year](Images/crimes_year.png)
+
+5. Total Number of Crimes by Month
+6. Total Number of Crimes by Day of the Week
+7. Total Number of Crimes by District
+8. Total Number of Crimes by Shift
+9. Total Number of Crimes by Time of the day
+10. Most frequent type of crime that is committed during the Day
+11. Most frequent type of crime that is committed during the Night
+12. Districts with the most Theft crimes
+13. Analyze the crime trends for all the offenses from 2009-2019
+
 
 
 
