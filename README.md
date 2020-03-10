@@ -80,6 +80,9 @@ For our analysis, we will be deleting the data in the lower quartiles
 ![crimes_year](Images/crimes_year.png)
 
 5. Total Number of Crimes by Month
+
+![crimes_month](Images/crimes_month.png)
+
 6. Total Number of Crimes by Day of the Week
 7. Total Number of Crimes by District
 8. Total Number of Crimes by Shift
