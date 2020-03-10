@@ -42,7 +42,7 @@ Created scripts to analyse the crime data and answer the following questions:
 ## Approach
 
 Step 1: Import Dependencies
-Step 2:
+Step 2: Read the csv files and convert them into DataFrames
 
 
 
