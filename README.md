@@ -20,4 +20,4 @@ The raw data set was downloaded from Kaggle
 # WHY-
  To shine a light on criminal activity and provide insight into the safety of the county's capital city
 # HOW-
-Using crime data compiled over the past 10 years until October 2019
+
