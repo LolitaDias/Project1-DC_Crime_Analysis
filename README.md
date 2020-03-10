@@ -33,11 +33,7 @@ Created scripts to analyse the crime data and answer the following questions:
 6. Total Number of Crimes by Day of the Week
 7. Total Number of Crimes by District
 8. Total Number of Crimes by Shift
-9. Total Number of Crimes by Time of the day
-10. Most frequent type of crime that is committed during the Day
-11. Most frequent type of crime that is committed during the Night
-12. Districts with the most Theft crimes
-13. Analyze the crime trends for all the offenses from 2009-2019
+9. Analyze the crime trends for all the offenses from 2009-2019
 
 ## Approach
 
@@ -95,11 +91,25 @@ For our analysis, we will be deleting the data in the lower quartiles
 
 ![crimes_shift](Images/crimes_shift.png)
 
-9. Total Number of Crimes by Time of the day
-10. Most frequent type of crime that is committed during the Day
-11. Most frequent type of crime that is committed during the Night
-12. Districts with the most Theft crimes
-13. Analyze the crime trends for all the offenses from 2009-2019
+9. Trends for all the offenses from 2009-2019
+
+![trend_theft/other]()
+
+![trend_theft_fauto]()
+
+![trend_robbery]()
+
+![trend_mv_theft]()
+
+![trend_burglary]()
+
+![trend_assault]()
+
+![trend_sexabuse]()
+
+![trend_homicide]()
+
+![trend_arson]()
 
 
 
