@@ -3,6 +3,7 @@
 Objectives:
 
 1. To get familiar with Data Analysis using python pandas, numpy and matplot libraries.
+2. Find patterns and trends to understand the safety level and types of crimes that occur in different areas in Washington D.C
 
 Team Members:
 Lolita Dias, Irais Garcia, Marc Omar Haddid, Nithin Sunil
