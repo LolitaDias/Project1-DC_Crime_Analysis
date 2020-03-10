@@ -2,20 +2,20 @@
 
 ## Objectives:
 
-1. To get familiar with Data Analysis using python pandas, numpy and matplot libraries.
-2. Find patterns and trends to understand the safety level and types of crimes that occur in different areas in Washington D.C
+1. To get familiar with Data Analysis using Python, Pandas, Numpy and Matplotlib libraries.
+2. Find patterns and trends to understand the safety level and types of crimes that occur in different areas of Washington D.C
 3. To shine a light on criminal activity and provide insight into the safety of the county's capital city
 
 ## Team Members:
 Lolita Dias, Irais Garcia, Marc Omar Haddid, Nithin Sunil
 
 ## Dataset:
-We choose to analyse Washington crime rate between 2009 - 2019.
+The data set has data from 2009-2019
 The data set was downloaded from Kaggle
 
 ## About the dataset:
 
-Dataset of all of the crimes in the DC metro police system ranging from Theft, Arson, Assault, Homicide, Sex Abuse, Robbery, and Burglary.Data can be easily geocoded and mapped, trends can be extracted, and predictions can be made.
+Dataset includes all of the crimes in the DC metro police system ranging from Theft, Arson, Assault, Homicide, Sex Abuse, Robbery, and Burglary.Data can be easily geocoded and mapped, trends can be extracted, and predictions can be made.
 
 Raw Data can be accessed from: http://crimemap.dc.gov/CrimeMapSearch.aspx#tabs-GeoOther
 
@@ -64,35 +64,27 @@ Is it truly a 100-year-old cold case, or did the person simply enter the wrong d
 
 For our analysis, we will be deleting the data in the lower quartiles
 
-2. Total number of crimes for each category of offense
-
-![](Images/Outliers.png)
-
-3. Percentage of crimes for each category of offense
-
-![](Images/Outliers.png)
-
-4. Total Number of Crimes by Year
+2. Total Number of Crimes by Year
 
 ![crimes_year](Images/crimes_year.png)
 
-5. Total Number of Crimes by Month
+3. Total Number of Crimes by Month
 
 ![crimes_month](Images/crimes_month.png)
 
-6. Total Number of Crimes by Day of the Week
+4. Total Number of Crimes by Day of the Week
 
 ![crimes_day](Images/crimes_day.png)
 
-7. Total Number of Crimes by District
+5. Total Number of Crimes by District
 
 ![crimes_district](Images/crimes_district.png)
 
-8. Total Number of Crimes by Shift
+6. Total Number of Crimes by Shift
 
 ![crimes_shift](Images/crimes_shift.png)
 
-9. Trends for all the offenses from 2009-2019
+7. Trends for all the offenses from 2009-2019
 
 ![trend_theft/other](Images/trend_theft_other.png)
 
@@ -112,15 +104,15 @@ For our analysis, we will be deleting the data in the lower quartiles
 
 ![trend_arson](Images/trend_arson.png)
 
-10. Dangerous blocks of Washington D.C
+8. Dangerous blocks of Washington D.C
 
 ![dangerous_streets](Images/dangerous_streets.png)
 
-11. Average number of Crimes per Day
+9. Average number of Crimes per Day
 
 ![crimesperday](Images/avg_crime_day.png)
 
-12. Crime Map for Washington D.C
+10. Crime Map for Washington D.C
 
 ![crimemap](Images/density.png)
 
