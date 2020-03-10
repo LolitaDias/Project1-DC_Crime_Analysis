@@ -95,21 +95,21 @@ For our analysis, we will be deleting the data in the lower quartiles
 
 ![trend_theft/other](Images/trend_theft_other.png')
 
-![trend_theft_fauto]()
+![trend_theft_fauto](Images/)
 
-![trend_robbery]()
+![trend_robbery](Images/)
 
-![trend_mv_theft]()
+![trend_mv_theft](Images/)
 
-![trend_burglary]()
+![trend_burglary](Images/)
 
-![trend_assault]()
+![trend_assault](Images/)
 
-![trend_sexabuse]()
+![trend_sexabuse](Images/)
 
-![trend_homicide]()
+![trend_homicide](Images/)
 
-![trend_arson]()
+![trend_arson](Images/)
 
 
 
