@@ -17,7 +17,7 @@ The raw data set was downloaded from Kaggle
 
 # WHAT-
  Finding patterns and trends to understand the safety level and types of crimes that occur in different areas in Washington D.C
-# WHY-
+
 
 
 
