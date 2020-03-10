@@ -45,6 +45,7 @@ Step 1: Import Dependencies
 Step 2: Read the csv files and convert them into DataFrames
 Step 3: Merge all the csv files from 2009-2019 into a single file and a single DataFrame
 Step 4: Data Profiling and Data Cleansing
+Step 5: Identify and delete Duplicate records
 
 
 
