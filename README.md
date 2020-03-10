@@ -25,18 +25,19 @@ The data is most easily accessed by downloading 1 ward at a time for the specifi
 
 Created scripts to analyse the crime data and answer the following questions:
 
-1. Total number of crimes for each category of offense
-2. Percentage of crimes for each category of offense
-3. Total Number of Crimes by Year
-4. Total Number of Crimes by Month
-5. Total Number of Crimes by Day of the Week
-6. Total Number of Crimes by District
-7. Total Number of Crimes by Shift
-8. Total Number of Crimes by Time of the day
-9. Most frequent type of crime that is committed during the Day
-10. Most frequent type of crime that is committed during the Night
-11. Districts with the most Theft crimes
-12. Analyze the crime trends for all the offenses from 2009-2019
+1. Outliers in the dataset.
+2. Total number of crimes for each category of offense
+3. Percentage of crimes for each category of offense
+4. Total Number of Crimes by Year
+5. Total Number of Crimes by Month
+6. Total Number of Crimes by Day of the Week
+7. Total Number of Crimes by District
+8. Total Number of Crimes by Shift
+9. Total Number of Crimes by Time of the day
+10. Most frequent type of crime that is committed during the Day
+11. Most frequent type of crime that is committed during the Night
+12. Districts with the most Theft crimes
+13. Analyze the crime trends for all the offenses from 2009-2019
 
 
 
