@@ -1,5 +1,12 @@
 # Project1_DC_Crime_Analysis
-Repository for analysis on Washington DC crime data analysis.
+The purpose of this project is to get familiar with Data Analysis using python pandas, numpy and matplot libraries.
+
+Team Members:
+Lolita Dias, Irais Garcia, Marc Omar Haddid, Nithin Sunil
+
+Dataset:
+We choose to analyse Washington crime rate between 2009 - 2019.
+The raw data set was downloaded from Kaggle
 
 # Our Objectives
 
