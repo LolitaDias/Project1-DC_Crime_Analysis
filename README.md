@@ -107,7 +107,7 @@ For our analysis, we will be deleting the data in the lower quartiles
 
 ![trend_sexabuse](Images/trend_abuse.png)
 
-![trend_homicide](Images/)
+![trend_homicide](Images/trend_homicide.png)
 
 ![trend_arson](Images/)
 
