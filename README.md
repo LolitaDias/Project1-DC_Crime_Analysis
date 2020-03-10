@@ -16,8 +16,5 @@ The raw data set was downloaded from Kaggle
 # Our Objectives
 
 # WHAT-
- Finding patterns and trends to understand the safety level and types of crimes that occur in different areas in Washington D.C
-
-
 
 
