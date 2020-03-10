@@ -55,7 +55,10 @@ Step 6: Identify Outliers
 
 Step 7: Analyzing the Crime rates
 
-## Result:
+## Results:
+1. Outliers in the dataset.
+![outliers](Images/Outliers.png)
+
 
 
 
