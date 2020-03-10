@@ -36,7 +36,7 @@ Created scripts to analyse the crime data and answer the following questions:
 9. Most frequent type of crime that is committed during the Day
 10. Most frequent type of crime that is committed during the Night
 11. Districts with the most Theft crimes
-12. Analyze the trends for all the Offenses from 2009-2019
+12. Analyze the crime trends for all the offenses from 2009-2019
 
 
 
