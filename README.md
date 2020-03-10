@@ -101,7 +101,7 @@ For our analysis, we will be deleting the data in the lower quartiles
 
 ![trend_mv_theft](Images/trend_theft_vehicle.png)
 
-![trend_burglary](Images/)
+![trend_burglary](Images/trend_burglary.png)
 
 ![trend_assault](Images/)
 
