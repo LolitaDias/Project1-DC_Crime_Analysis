@@ -19,5 +19,7 @@ Dataset of all of the crimes in the DC metro police system ranging from Theft, A
 
 Raw Data can be accessed from: http://crimemap.dc.gov/CrimeMapSearch.aspx#tabs-GeoOther
 
+The data is most easily accessed by downloading 1 ward at a time for the specific data range.
+
 
 
