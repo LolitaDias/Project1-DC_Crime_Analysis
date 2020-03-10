@@ -39,6 +39,11 @@ Created scripts to analyse the crime data and answer the following questions:
 12. Districts with the most Theft crimes
 13. Analyze the crime trends for all the offenses from 2009-2019
 
+## Approach
+
+Step 1: Import Dependencies
+Step 2:
+
 
 
 
