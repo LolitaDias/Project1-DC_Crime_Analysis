@@ -93,7 +93,7 @@ For our analysis, we will be deleting the data in the lower quartiles
 
 9. Trends for all the offenses from 2009-2019
 
-![trend_theft/other]()
+![trend_theft/other](Images/trend_theft_other.png')
 
 ![trend_theft_fauto]()
 
